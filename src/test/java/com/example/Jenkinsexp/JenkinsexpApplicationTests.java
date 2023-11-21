@@ -16,6 +16,7 @@ class JenkinsexpApplicationTests {
 		log.info("Testing...");
 		log.info("Testing by bala...");
 		log.info("Testing by bala2..sucesss");
+		log.info("Testing by bala2..PIPEline testing");
 		assertEquals(true,true);
 	}
 
