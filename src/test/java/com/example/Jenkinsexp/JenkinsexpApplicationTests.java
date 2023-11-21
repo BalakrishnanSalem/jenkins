@@ -15,7 +15,7 @@ class JenkinsexpApplicationTests {
 	void contextLoads() {
 		log.info("Testing...");
 		log.info("Testing by bala...");
-		log.info("Testing by bala2.."+10/0);
+		log.info("Testing by bala2..sucesss");
 		assertEquals(true,true);
 	}
 
